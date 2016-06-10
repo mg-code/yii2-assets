@@ -16,7 +16,7 @@ class HistoryJsAsset extends AssetBundle
     {
         parent::init();
         if(!file_exists(\Yii::getAlias('@bower/history.js/scripts/bundled/html5/native.history.js'))) {
-            throw new InvalidConfigException('You must include `bower-asset/history.js` package in your composer.json configruation file.');
+            throw new InvalidConfigException('You must include `bower-asset/history.js` package in your composer.json configuration file.');
         }
     }
 }

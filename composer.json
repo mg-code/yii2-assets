@@ -1,7 +1,7 @@
 {
     "name": "mg-code/yii2-assets",
     "description": "Yii2 asset collection of useful JavaScript libraries",
-    "keywords": ["yii2", "extension", "assets", "history.js"],
+    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid"],
     "homepage": "https://github.com/mg-code/yii2-assets",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
@@ -16,7 +16,11 @@
         "yiisoft/yii2": "*"
     },
     "suggest": {
-        "bower-asset/history.js": "Adds support for history.js plugin."
+        "bower-asset/history.js": "Adds `history.js` plugin support.",
+        "bower-asset/awesome-grid": "Adds `awesome-grid` plugin support.",
+        "bower-asset/sly": "Adds `sly` plugin support.",
+        "bower-asset/jquery.browser": "Adds `jquery.browser` plugin support.",
+        "bower-asset/sticky": "Adds `sticky` plugin support."
     },
     "autoload": {
         "psr-4": {
