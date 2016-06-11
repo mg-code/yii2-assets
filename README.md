@@ -4,8 +4,8 @@ Yii2 asset collection of useful JavaScript libraries.
 
 Below are instructions how to use assets.
 
-You must include dependencies in your composer.json for all assets that you want to use. 
-This is due to prevent loading dependency packages for assets that you don't need. (See [Install dependencies](#install-dependencies))
+You must include dependencies in your composer.json for all assets (see [Assets](#assets) section) that you want to use. 
+This is due to prevent loading dependency packages for assets that you don't need.
 
 ### Install
 
@@ -24,7 +24,7 @@ or add
 to the ```require``` section of your `composer.json` file.
 
 ### Install dependencies 
-See [Dependency list](#dependency-list) section, there are described what dependencies you need to include for every asset.
+See [Assets](#assets) section, there are described what dependencies you need to include for every asset.
 
 To add those dependencies either run
 
@@ -61,26 +61,52 @@ class MyAsset extends AssetBundle
     ];
 }
 ```
-Replace AwesomeGridAsset with desired asset.
+Replace AwesomeGridAsset with desired asset. (See [Assets](#assets) section)
 
-### Dependency list
-**Awesome Grid**
+Assets
+======
+### Awesome Grid
+Asset:
+```
+mgcode\assets\AwesomeGridAsset
+```
+Dependencies: 
 ```
 "bower-asset/awesome-grid": "*"
 ```
-**History.js**
+### History.js
+Asset:
+```
+mgcode\assets\HistoryJsAsset
+```
+Dependencies: 
 ```
 "bower-asset/history.js": "*"
 ```
-**jQuery.browser**
+### jQuery.browser
+Asset:
+```
+mgcode\assets\JqueryBrowserAsset
+```
+Dependencies: 
 ```
 "bower-asset/jquery.browser": "*"
 ```
-**Sly**
+### Sly
+Asset:
+```
+mgcode\assets\SlyAsset
+```
+Dependencies: 
 ```
 "bower-asset/sly": "*"
 ```
-**Sticky**
+### Sticky
+Asset:
+```
+mgcode\assets\StickyAsset
+```
+Dependencies: 
 ```
 "bower-asset/sticky": "*"
 ```
