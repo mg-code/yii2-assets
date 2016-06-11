@@ -24,6 +24,21 @@ or add
 to the ```require``` section of your `composer.json` file.
 
 ### Install dependencies 
+See [Dependency list](#dependency-list) section, there are described what dependencies you need to include for every asset.
+
+To add those dependencies either run
+
+```
+$ php composer.phar require vendorName/packageName "*"
+```
+
+or add
+
+```
+"vendorName/packageName": "*"
+```
+
+to the ```require``` section of your `composer.json` file.
 
 ### Usage
 There are two ways how to use assets.
@@ -48,7 +63,8 @@ class MyAsset extends AssetBundle
 ```
 Replace AwesomeGridAsset with desired asset.
 
-### Awesome Grid
+### Dependency list
+**Awesome Grid**
 ```
 "bower-asset/awesome-grid": "*"
 ```
