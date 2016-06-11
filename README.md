@@ -68,3 +68,19 @@ Replace AwesomeGridAsset with desired asset.
 ```
 "bower-asset/awesome-grid": "*"
 ```
+**History.js**
+```
+"bower-asset/history.js": "*"
+```
+**jQuery.browser**
+```
+"bower-asset/jquery.browser": "*"
+```
+**Sly**
+```
+"bower-asset/sly": "*"
+```
+**Sticky**
+```
+"bower-asset/sticky": "*"
+```
