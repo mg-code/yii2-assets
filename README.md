@@ -7,6 +7,13 @@ Below are instructions how to use assets.
 You must include dependencies in your composer.json for all assets (see [Assets](#assets) section) that you want to use. 
 This is due to prevent loading dependency packages for assets that you don't need.
 
+Assets:
+* [Awesome Grid](#awesome-grid)
+* [History.js](#historyjs)
+* [jQuery.browser](#jquerybrowser)
+* [Sly](#sly)
+* [Sticky](#sticky)
+
 ### Install
 
 Either run
