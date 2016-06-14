@@ -2,6 +2,7 @@
 
 namespace mgcode\assets;
 
+use yii\base\InvalidConfigException;
 use yii\web\AssetBundle;
 
 /**
@@ -30,6 +31,9 @@ class IntlJsLocaleAsset extends AssetBundle
     public function init()
     {
         parent::init();
+        if(!is_dir(\Yii::getAlias('@bower/intl/locale-data/jsonp'))) {
+            throw new InvalidConfigException('You must include `bower-asset/intl` package in your composer.json configuration file.');
+        }
         $locale = isset(\Yii::$app->params['intlJsLocale']) ? \Yii::$app->params['intlJsLocale'] : \Yii::$app->formatter->locale;
         $this->js[] = $locale.'.js';
     }
