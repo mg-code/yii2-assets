@@ -11,6 +11,7 @@ Assets:
 * [Awesome Grid](#awesome-grid)
 * [History.js](#historyjs)
 * [jQuery.browser](#jquerybrowser)
+* [JavaScript Cookie](#javascript-cookie)
 * [Sly](#sly)
 * [Sticky](#sticky)
 
@@ -98,6 +99,15 @@ mgcode\assets\JqueryBrowserAsset
 Dependencies: 
 ```
 "bower-asset/jquery.browser": "*"
+```
+### JavaScript Cookie
+Asset:
+```
+mgcode\assets\JsCookieAsset
+```
+Dependencies:
+```
+"bower-asset/js-cookie": "~2"
 ```
 ### Sly
 Asset:
