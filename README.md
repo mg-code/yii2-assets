@@ -11,6 +11,7 @@ Assets:
 * [Awesome Grid](#awesome-grid)
 * [History.js](#historyjs)
 * [jQuery.browser](#jquerybrowser)
+* [jQuery Serialize Object](#jquery-serialize-object)
 * [JavaScript Cookie](#javascript-cookie)
 * [Sly](#sly)
 * [Sticky](#sticky)
@@ -99,6 +100,15 @@ mgcode\assets\JqueryBrowserAsset
 Dependencies: 
 ```
 "bower-asset/jquery.browser": "*"
+```
+### jQuery Serialize Object
+Asset:
+```
+mgcode\assets\JquerySerializeObjectAsset
+```
+Dependencies:
+```
+"bower-asset/jquery-serialize-object": "~2"
 ```
 ### JavaScript Cookie
 Asset:

@@ -20,6 +20,7 @@
         "bower-asset/awesome-grid": "Adds `awesome-grid` plugin support.",
         "bower-asset/sly": "Adds `sly` plugin support.",
         "bower-asset/jquery.browser": "Adds `jquery.browser` plugin support.",
+        "bower-asset/jquery-serialize-object": "Adds `jquery-serialize-object` plugin support.",
         "bower-asset/js-cookie": "Adds 'JavaScript Cookie' plugin support.",
         "bower-asset/sticky": "Adds `sticky` plugin support."
     },
