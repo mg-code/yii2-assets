@@ -10,6 +10,7 @@ This is due to prevent loading dependency packages for assets that you don't nee
 Assets:
 * [Awesome Grid](#awesome-grid)
 * [History.js](#historyjs)
+* [Intl.js](#intljs)
 * [jQuery.browser](#jquerybrowser)
 * [jQuery Serialize Object](#jquery-serialize-object)
 * [JavaScript Cookie](#javascript-cookie)
@@ -91,6 +92,31 @@ mgcode\assets\HistoryJsAsset
 Dependencies: 
 ```
 "bower-asset/history.js": "*"
+```
+### Intl.js
+Main asset:
+```
+mgcode\assets\IntlJsAsset
+```
+Locale Asset:
+```
+mgcode\assets\IntlJsLocaleAsset
+```
+By default `IntlJsLocaleAsset` uses locale defined in Formatter configuration.
+If you want to override it you can define it in application `params` section:
+
+```php
+return [
+    ..... application configuration ....
+    'params' => [
+        'intlJsLocale' => 'en-US',
+        ...
+    ]
+];
+```
+Dependencies:
+```
+"bower-asset/intl": "*"
 ```
 ### jQuery.browser
 Asset:
