@@ -13,10 +13,9 @@ class GoogleMapsMarkerWithLabelAsset extends AssetBundle
 {
     public $sourcePath = '@mgcode/assets/files/googlemaps';
     public $js = [
-        'googlemaps.markerwithlabel'
+        'googlemaps.markerwithlabel.js'
     ];
     public $depends = [
-        'yii\web\JqueryAsset',
-        'yii\bootstrap\BootstrapPluginAsset',
+        'mgcode\assets\GoogleMapsAsset',
     ];
 }

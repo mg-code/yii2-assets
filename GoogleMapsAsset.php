@@ -9,7 +9,7 @@ use yii\web\AssetBundle;
  * @link https://github.com/mg-code/yii2-assets
  * @author Maris Graudins <maris@mg-interactive.lv>
  */
-class GoogleMapAsset extends AssetBundle
+class GoogleMapsAsset extends AssetBundle
 {
     public function init()
     {
