@@ -16,6 +16,8 @@ Assets:
 * [JavaScript Cookie](#javascript-cookie)
 * [Sly](#sly)
 * [Sticky](#sticky)
+* [Owl Carousel](#owl-carousel)
+* [Are You Sure?](#are-you-sure)
 
 ### Install
 
@@ -162,4 +164,39 @@ mgcode\assets\StickyAsset
 Dependencies: 
 ```
 "bower-asset/sticky": "*"
+```
+### Owl Carousel
+Asset for JS && CSS files:
+```
+mgcode\assets\OwlCarouselAsset
+```
+Asset for JS file:
+```
+mgcode\assets\OwlCarouselScriptAsset
+```
+Dependencies: 
+```
+"bower-asset/owl.carousel": "*"
+```
+### Owl Carousel
+Asset for JS && CSS files:
+```
+mgcode\assets\OwlCarouselAsset
+```
+Asset for JS file:
+```
+mgcode\assets\OwlCarouselScriptAsset
+```
+Dependencies: 
+```
+"bower-asset/owl.carousel": "*"
+```
+### Are You Sure?
+Asset:
+```
+mgcode\assets\AreYouSureAsset
+```
+Dependencies: 
+```
+"bower-asset/jquery.are-you-sure": "*"
 ```
