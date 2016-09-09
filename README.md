@@ -178,19 +178,6 @@ Dependencies:
 ```
 "bower-asset/owl.carousel": "*"
 ```
-### Owl Carousel
-Asset for JS && CSS files:
-```
-mgcode\assets\OwlCarouselAsset
-```
-Asset for JS file:
-```
-mgcode\assets\OwlCarouselScriptAsset
-```
-Dependencies: 
-```
-"bower-asset/owl.carousel": "*"
-```
 ### Are You Sure?
 Asset:
 ```
