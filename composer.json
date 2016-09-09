@@ -1,7 +1,7 @@
 {
     "name": "mg-code/yii2-assets",
     "description": "Yii2 asset collection of useful JavaScript libraries",
-    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky"],
+    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky", "owl-carousel2", "jquery.are-you-sure"],
     "homepage": "https://github.com/mg-code/yii2-assets",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
@@ -24,7 +24,8 @@
         "bower-asset/jquery-serialize-object": "Adds `jquery-serialize-object` plugin support.",
         "bower-asset/js-cookie": "Adds 'JavaScript Cookie' plugin support.",
         "bower-asset/sticky": "Adds `sticky` plugin support.",
-        "bower-asset/owl-carousel2": "Adds `owl.carousel` plugin support."
+        "bower-asset/owl.carousel": "Adds `owl.carousel` plugin support.",
+        "bower-asset/jquery.are-you-sure": "Adds `jquery.are-you-sure` plugin support."
     },
     "autoload": {
         "psr-4": {
