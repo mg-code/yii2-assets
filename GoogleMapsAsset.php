@@ -14,6 +14,12 @@ class GoogleMapsAsset extends AssetBundle
     public function init()
     {
         parent::init();
-        $this->js[] = '//maps.googleapis.com/maps/api/js?v=3.exp&language=' . \Yii::$app->language;
+        $js = '//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,drawing,geometry,visualization&language=' . \Yii::$app->language;
+
+        if(isset(\Yii::$app->params['googleMapsApiKey'])) {
+            $js .= '&key='.\Yii::$app->params['googleMapsApiKey'];
+        }
+
+        $this->js[] = $js;
     }
 }
