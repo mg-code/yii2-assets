@@ -18,6 +18,7 @@ Assets:
 * [Sticky](#sticky)
 * [Owl Carousel](#owl-carousel)
 * [Are You Sure?](#are-you-sure)
+* [Bootstrap Tabdrop](#bootstrap-tabdrop)
 
 ### Install
 
@@ -186,4 +187,9 @@ mgcode\assets\AreYouSureAsset
 Dependencies: 
 ```
 "bower-asset/jquery.are-you-sure": "*"
+```
+### Bootstrap Tabdrop
+Asset:
+```
+mgcode\assets\BootstrapTabdropAsset
 ```
