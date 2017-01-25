@@ -196,6 +196,7 @@ mgcode\assets\BootstrapTabdropAsset
 ```
 ### Autobahn JS
 0.8.2 is the last version of Autobahn|JS that supports version 1 of WAMP.
+
 Please read documentation here: [http://autobahn.ws/js/reference_wampv1.html](http://autobahn.ws/js/reference_wampv1.html)
 
 Asset:
