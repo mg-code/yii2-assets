@@ -19,6 +19,7 @@ Assets:
 * [Owl Carousel](#owl-carousel)
 * [Are You Sure?](#are-you-sure)
 * [Bootstrap Tabdrop](#bootstrap-tabdrop)
+* [Autobahn JS](#autobahn-js)
 
 ### Install
 
@@ -192,4 +193,9 @@ Dependencies:
 Asset:
 ```
 mgcode\assets\BootstrapTabdropAsset
+```
+### Autobahn JS
+Asset:
+```
+mgcode\assets\AutobahnJsAsset
 ```
