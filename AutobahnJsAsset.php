@@ -11,6 +11,6 @@ use yii\web\AssetBundle;
  */
 class AutobahnJsAsset extends AssetBundle
 {
-    public $sourcePath = '@mgcode/assets/files/autobahnjs-0.9.8';
+    public $sourcePath = '@mgcode/assets/files/autobahnjs-0.8.2';
     public $js = ['autobahn.min.js'];
 }
