@@ -20,6 +20,7 @@ Assets:
 * [Are You Sure?](#are-you-sure)
 * [Bootstrap Tabdrop](#bootstrap-tabdrop)
 * [Autobahn JS](#autobahn-js)
+* [Highcharts](#highcharts)
 
 ### Install
 
@@ -202,4 +203,13 @@ Please read documentation here: [http://autobahn.ws/js/reference_wampv1.html](ht
 Asset:
 ```
 mgcode\assets\AutobahnJsAsset
+```
+### Highcharts
+Asset:
+```
+mgcode\assets\HighchartsAsset
+```
+Dependencies: 
+```
+"bower-asset/highcharts-release": "*"
 ```
