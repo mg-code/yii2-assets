@@ -20,6 +20,7 @@ Assets:
 * [Are You Sure?](#are-you-sure)
 * [Bootstrap Tabdrop](#bootstrap-tabdrop)
 * [Autobahn JS](#autobahn-js)
+* [Seiyria Bootstrap Slider](#seiyria-bootstrap-slider)
 * [Highcharts](#highcharts)
 
 ### Install
@@ -203,6 +204,15 @@ Please read documentation here: [http://autobahn.ws/js/reference_wampv1.html](ht
 Asset:
 ```
 mgcode\assets\AutobahnJsAsset
+```
+### Seiyria Bootstrap Slider
+Asset:
+```
+mgcode\assets\SeiyriaBootstrapSliderAsset
+```
+Dependencies: 
+```
+"bower-asset/seiyria-bootstrap-slider": "9.*"
 ```
 ### Highcharts
 Asset:

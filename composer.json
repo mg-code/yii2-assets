@@ -1,7 +1,7 @@
 {
     "name": "mg-code/yii2-assets",
     "description": "Yii2 asset collection of useful JavaScript libraries",
-    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky", "owl-carousel2", "jquery.are-you-sure", "tabdrop", "autobahn js", "highcharts"],
+    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky", "owl-carousel2", "jquery.are-you-sure", "tabdrop", "autobahn js", "bootstrap slider", "seiyria bootstrap slider", "highcharts"],
     "homepage": "https://github.com/mg-code/yii2-assets",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
@@ -26,6 +26,7 @@
         "bower-asset/sticky": "Adds `sticky` plugin support.",
         "bower-asset/owl.carousel": "Adds `owl.carousel` plugin support.",
         "bower-asset/jquery.are-you-sure": "Adds `jquery.are-you-sure` plugin support.",
+        "bower-asset/seiyria-bootstrap-slider": "Adds `seiyria-bootstrap-slider` plugin support.",
         "bower-asset/highcharts-release": "Adds `Highcharts` plugin support."
     },
     "autoload": {
