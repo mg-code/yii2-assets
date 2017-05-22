@@ -22,7 +22,7 @@ Assets:
 * [Autobahn JS](#autobahn-js)
 * [Seiyria Bootstrap Slider](#seiyria-bootstrap-slider)
 * [Highcharts](#highcharts)
-* [messageformat.js](#messageformat-js)
+* [messageformat.js](#messageformatjs)
 
 ### Install
 
