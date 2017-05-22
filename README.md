@@ -22,6 +22,7 @@ Assets:
 * [Autobahn JS](#autobahn-js)
 * [Seiyria Bootstrap Slider](#seiyria-bootstrap-slider)
 * [Highcharts](#highcharts)
+* [messageformat.js](#messageformat-js)
 
 ### Install
 
@@ -222,4 +223,14 @@ mgcode\assets\HighchartsAsset
 Dependencies: 
 ```
 "bower-asset/highcharts-release": "*"
+```
+
+### messageformat.js
+Asset:
+```
+mgcode\assets\MessageFormatAsset
+```
+Dependencies: 
+```
+"bower-asset/messageformat": "*"
 ```
