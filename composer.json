@@ -28,7 +28,8 @@
         "bower-asset/jquery.are-you-sure": "Adds `jquery.are-you-sure` plugin support.",
         "bower-asset/seiyria-bootstrap-slider": "Adds `seiyria-bootstrap-slider` plugin support.",
         "bower-asset/highcharts-release": "Adds `Highcharts` plugin support.",
-        "bower-asset/messageformat": "Adds `messageformat.js` plugin support."
+        "bower-asset/messageformat": "Adds `messageformat.js` plugin support.",
+        "bower-asset/fancybox": "Adds `Fancybox` plugin support."
     },
     "autoload": {
         "psr-4": {
