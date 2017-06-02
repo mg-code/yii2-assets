@@ -23,6 +23,7 @@ Assets:
 * [Seiyria Bootstrap Slider](#seiyria-bootstrap-slider)
 * [Highcharts](#highcharts)
 * [messageformat.js](#messageformatjs)
+* [Fancybox](#fancybox)
 
 ### Install
 
@@ -224,7 +225,6 @@ Dependencies:
 ```
 "bower-asset/highcharts-release": "*"
 ```
-
 ### messageformat.js
 Asset:
 ```
@@ -233,4 +233,13 @@ mgcode\assets\MessageFormatAsset
 Dependencies: 
 ```
 "bower-asset/messageformat": "*"
+```
+### Fancybox
+Asset:
+```
+mgcode\assets\FancyboxAsset
+```
+Dependencies: 
+```
+"bower-asset/fancybox": "*"
 ```
