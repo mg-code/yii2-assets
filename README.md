@@ -24,6 +24,7 @@ Assets:
 * [Highcharts](#highcharts)
 * [messageformat.js](#messageformatjs)
 * [Fancybox](#fancybox)
+* [Enhanced Events](#enhanced-events)
 
 ### Install
 
@@ -242,4 +243,10 @@ mgcode\assets\FancyboxAsset
 Dependencies: 
 ```
 "bower-asset/fancybox": "*"
+```
+### Enhanced Events
+Adds document scrollEnd event.
+Asset:
+```
+mgcode\assets\EnhancedEventsAsset
 ```
