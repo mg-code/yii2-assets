@@ -25,6 +25,7 @@ Assets:
 * [messageformat.js](#messageformatjs)
 * [Fancybox](#fancybox)
 * [Enhanced Events](#enhanced-events)
+* [ReactJS](#reactjs)
 
 ### Install
 
@@ -249,4 +250,14 @@ Adds document scrollEnd event.
 Asset:
 ```
 mgcode\assets\EnhancedEventsAsset
+```
+### ReactJS
+Asset:
+```
+mgcode\assets\ReactAsset
+mgcode\assets\ReactDomAsset
+```
+Dependencies: 
+```
+"bower-asset/react": "*"
 ```
