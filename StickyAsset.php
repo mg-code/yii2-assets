@@ -15,6 +15,9 @@ class StickyAsset extends AssetBundle
     public $js = [
         'jquery.sticky.js',
     ];
+    public $depends = [
+        'yii\web\JqueryAsset',
+    ];
 
     public function init()
     {
