@@ -26,6 +26,7 @@ Assets:
 * [Fancybox](#fancybox)
 * [Enhanced Events](#enhanced-events)
 * [ReactJS](#reactjs)
+* [Single Page Nav](#single-page-nav)
 
 ### Install
 
@@ -260,4 +261,10 @@ mgcode\assets\ReactDomAsset
 Dependencies: 
 ```
 "bower-asset/react": "*"
+```
+### Single Page Nav
+Version 1.2.1 supported.
+Asset:
+```
+mgcode\assets\SinglePageNavAsset
 ```
