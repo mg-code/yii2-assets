@@ -264,6 +264,7 @@ Dependencies:
 ```
 ### Single Page Nav
 Version 1.2.1 supported.
+
 Asset:
 ```
 mgcode\assets\SinglePageNavAsset
