@@ -27,6 +27,7 @@ Assets:
 * [Enhanced Events](#enhanced-events)
 * [ReactJS](#reactjs)
 * [Single Page Nav](#single-page-nav)
+* [jQuery Easing](#jquery-easing)
 
 ### Install
 
@@ -268,4 +269,13 @@ Version 1.2.1 supported.
 Asset:
 ```
 mgcode\assets\SinglePageNavAsset
+```
+### jQuery Easing
+Asset:
+```
+mgcode\assets\JqueryEasingAsset
+```
+Dependencies: 
+```
+"bower-asset/jquery-easing-original": "*"
 ```
