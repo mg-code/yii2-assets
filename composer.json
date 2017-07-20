@@ -1,7 +1,7 @@
 {
     "name": "mg-code/yii2-assets",
     "description": "Yii2 asset collection of useful JavaScript libraries",
-    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky", "owl-carousel2", "jquery.are-you-sure", "tabdrop", "autobahn js", "bootstrap slider", "seiyria bootstrap slider", "highcharts", "messageformat.js", "fancybox", "ReactJS", "Single Page Nav", "SinglePageNav"],
+    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky", "owl-carousel2", "jquery.are-you-sure", "tabdrop", "autobahn js", "bootstrap slider", "seiyria bootstrap slider", "highcharts", "messageformat.js", "fancybox", "ReactJS", "Single Page Nav", "SinglePageNav", "jquery easing"],
     "homepage": "https://github.com/mg-code/yii2-assets",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
@@ -30,7 +30,8 @@
         "bower-asset/highcharts-release": "Adds `Highcharts` plugin support.",
         "bower-asset/messageformat": "Adds `messageformat.js` plugin support.",
         "bower-asset/fancybox": "Adds `Fancybox` plugin support.",
-        "bower-asset/react": "Adds `ReactJs` plugin support."
+        "bower-asset/react": "Adds `ReactJs` plugin support.",
+        "bower-asset/jquery-easing-original": "Adds `jQuery Easing` plugin support."
     },
     "autoload": {
         "psr-4": {
