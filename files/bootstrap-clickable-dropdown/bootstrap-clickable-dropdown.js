@@ -1,6 +1,6 @@
 (function ($) {
     var bindEvent = function () {
-        $('.dropdown-menu[data-clickable=true]')
+        $('.dropdown-menu [data-clickable=true], .dropdown-menu[data-clickable=true]')
             .off('click.btDropdownClickable')
             .on('click.btDropdownClickable', function (e) {
                 if ($(e.target).data('toggle') != 'close') {
