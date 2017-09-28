@@ -28,6 +28,7 @@ Assets:
 * [ReactJS](#reactjs)
 * [Single Page Nav](#single-page-nav)
 * [jQuery Easing](#jquery-easing)
+* [CoreJS TypeAhead](#corejs-typeahead)
 
 ### Install
 
@@ -278,4 +279,13 @@ mgcode\assets\JqueryEasingAsset
 Dependencies: 
 ```
 "bower-asset/jquery-easing-original": "*"
+```
+### CoreJs TypeAhead
+Asset:
+```
+mgcode\assets\CoreJsTypeAheadAsset
+```
+Dependencies: 
+```
+"bower-asset/corejs-typeahead": "*"
 ```
