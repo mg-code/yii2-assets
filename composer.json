@@ -1,7 +1,7 @@
 {
     "name": "mg-code/yii2-assets",
     "description": "Yii2 asset collection of useful JavaScript libraries",
-    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky", "owl-carousel2", "jquery.are-you-sure", "tabdrop", "autobahn js", "bootstrap slider", "seiyria bootstrap slider", "highcharts", "messageformat.js", "fancybox", "ReactJS", "Single Page Nav", "SinglePageNav", "jquery easing", "TypeAhead", "CoreJS TypeAhead"],
+    "keywords": ["yii2", "extension", "assets", "history.js", "awesome-grid", "intl.js", "sly", "jquery.browser", "jquery-serialize-object", "js-cookie", "sticky", "owl-carousel2", "jquery.are-you-sure", "tabdrop", "autobahn js", "bootstrap slider", "seiyria bootstrap slider", "highcharts", "messageformat.js", "fancybox", "ReactJS", "Single Page Nav", "SinglePageNav", "jquery easing", "TypeAhead", "CoreJS TypeAhead", "jQuery File Upload"],
     "homepage": "https://github.com/mg-code/yii2-assets",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
@@ -32,7 +32,8 @@
         "bower-asset/fancybox": "Adds `Fancybox` plugin support.",
         "bower-asset/react": "Adds `ReactJs` plugin support.",
         "bower-asset/jquery-easing-original": "Adds `jQuery Easing` plugin support.",
-        "bower-asset/corejs-typeahead": "Adds `CoreJS TypeAhead` plugin support."
+        "bower-asset/corejs-typeahead": "Adds `CoreJS TypeAhead` plugin support.",
+        "bower-asset/blueimp-file-upload": "Adds `jQuery File Upload` plugin support."
     },
     "autoload": {
         "psr-4": {

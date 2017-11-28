@@ -29,6 +29,7 @@ Assets:
 * [Single Page Nav](#single-page-nav)
 * [jQuery Easing](#jquery-easing)
 * [CoreJS TypeAhead](#corejs-typeahead)
+* [jQuery File Upload](#jquery-file-upload)
 
 ### Install
 
@@ -288,4 +289,13 @@ mgcode\assets\CoreJsTypeAheadAsset
 Dependencies: 
 ```
 "bower-asset/corejs-typeahead": "*"
+```
+### jQuery File Upload
+Asset:
+```
+mgcode\assets\JqueryFileUploadAsset
+```
+Dependencies: 
+```
+"bower-asset/blueimp-file-upload": "*"
 ```
