@@ -23,7 +23,7 @@ class OwlCarouselScriptAsset extends AssetBundle
     {
         parent::init();
         if(!file_exists(\Yii::getAlias('@bower/owl.carousel/dist/owl.carousel.min.js'))) {
-            throw new InvalidConfigException('You must include `bower-asset/owl.carousel` package in your composer.json configuration file.');
+            throw new InvalidConfigException('You must include `bower-asset/owl.carousel2.thumbs` package in your composer.json configuration file.');
         }
     }
 }

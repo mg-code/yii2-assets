@@ -190,6 +190,15 @@ Dependencies:
 ```
 "bower-asset/owl.carousel": "*"
 ```
+### Owl Carousel 2 Thumbnails
+Asset for JS && CSS files:
+```
+mgcode\assets\OwlCarouselThumbsAsset
+```
+Dependencies: 
+```
+"bower-asset/owl.carousel2.thumbs": "*"
+```
 ### Are You Sure?
 Asset:
 ```
