@@ -17,6 +17,7 @@ Assets:
 * [Sly](#sly)
 * [Sticky](#sticky)
 * [Owl Carousel](#owl-carousel)
+* [Owl Carousel 2 Thumbnails](#owl-carousel-2-thumbnails)
 * [Are You Sure?](#are-you-sure)
 * [Bootstrap Tabdrop](#bootstrap-tabdrop)
 * [Autobahn JS](#autobahn-js)
