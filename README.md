@@ -11,6 +11,7 @@ Assets:
 * [Awesome Grid](#awesome-grid)
 * [History.js](#historyjs)
 * [Intl.js](#intljs)
+* [Ionicons](#ionicons)
 * [jQuery.browser](#jquerybrowser)
 * [jQuery Serialize Object](#jquery-serialize-object)
 * [JavaScript Cookie](#javascript-cookie)
@@ -132,6 +133,15 @@ return [
 Dependencies:
 ```
 "bower-asset/intl": "*"
+```
+### Ionicons
+Asset:
+```
+mgcode\assets\IoniconsAsset
+```
+Dependencies: 
+```
+"bower-asset/ionicons": "*"
 ```
 ### jQuery.browser
 Asset:
