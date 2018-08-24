@@ -9,6 +9,7 @@ This is due to prevent loading dependency packages for assets that you don't nee
 
 Assets:
 * [Awesome Grid](#awesome-grid)
+* [BxSlider](#bxslider)
 * [History.js](#historyjs)
 * [Intl.js](#intljs)
 * [Ionicons](#ionicons)
@@ -99,6 +100,16 @@ mgcode\assets\AwesomeGridAsset
 Dependencies: 
 ```
 "bower-asset/awesome-grid": "*"
+```
+### BxSlider
+Assets:
+```
+mgcode\assets\BxSliderAsset
+mgcode\assets\BxSliderPluginAsset
+```
+Dependencies: 
+```
+"bower-asset/bxslider-4": "*"
 ```
 ### History.js
 Asset:
